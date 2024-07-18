@@ -38,4 +38,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/ashu11-a/games:${{ matrix.tag }}
+            ghcr.io/veslydev/games:${{ matrix.tag }}

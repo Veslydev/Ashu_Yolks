@@ -2,12 +2,12 @@
 
 # Ashu_Yolks
 
-![license-info](https://img.shields.io/github/license/Ashu11-A/Ashu_Yolks?logo=gnu&style=for-the-badge&colorA=302D41&colorB=f9e2af&logoColor=f9e2af)
-![stars-info](https://img.shields.io/github/stars/Ashu11-A/Ashu_Yolks?colorA=302D41&colorB=f9e2af&style=for-the-badge)
+![license-info](https://img.shields.io/github/license/veslydev/Ashu_Yolks?logo=gnu&style=for-the-badge&colorA=302D41&colorB=f9e2af&logoColor=f9e2af)
+![stars-info](https://img.shields.io/github/stars/veslydev/Ashu_Yolks?colorA=302D41&colorB=f9e2af&style=for-the-badge)
 
-![Last-Comitt](https://img.shields.io/github/last-commit/Ashu11-A/Ashu_Yolks?style=for-the-badge&colorA=302D41&colorB=b4befe)
-![Comitts Year](https://img.shields.io/github/commit-activity/y/Ashu11-A/Ashu_Yolks?style=for-the-badge&colorA=302D41&colorB=f9e2af&logoColor=f9e2af)
-![reposize-info](https://img.shields.io/github/repo-size/Ashu11-A/Ashu_Yolks?style=for-the-badge&colorA=302D41&colorB=89dceb)
+![Last-Comitt](https://img.shields.io/github/last-commit/veslydev/Ashu_Yolks?style=for-the-badge&colorA=302D41&colorB=b4befe)
+![Comitts Year](https://img.shields.io/github/commit-activity/y/veslydev/Ashu_Yolks?style=for-the-badge&colorA=302D41&colorB=f9e2af&logoColor=f9e2af)
+![reposize-info](https://img.shields.io/github/repo-size/veslydev/Ashu_Yolks?style=for-the-badge&colorA=302D41&colorB=89dceb)
 
 </div>
 <div align="left">
@@ -38,26 +38,26 @@ Gostou? Então de uma 🌟 ao repositório!
 ## 🖥 | Software
 | Service | AMD64 | ARM64 | Docker |
 |--|--|--|--|
-| [Box64](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/Box64) | ❌ | ✅ | ``ghcr.io/ashu11-a/yolks:box64`` |
-| [Box86](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/Box86) | ❌ | ✅ | ``ghcr.io/ashu11-a/yolks:box86`` |
-| [Debian](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/Debian) | ✅ | ✅ | ``ghcr.io/ashu11-a/yolks:debian`` |
-| [Dotnet](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/Dotnet) | ✅ | ✅ | ``ghcr.io/ashu11-a/yolks:dotnet_6`` |
-| [Emby](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/emby) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:emby`` |
-| [Jellyfin](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/jellyfin) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:jellyfin`` |
-| [Nextcloud](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/nextcloud) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:nextcloud`` |
-| [nodejs/19](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/nodejs/19) | ✅ | ✅ | ``ghcr.io/ashu11-a/yolks:nodejs_9`` |
-| [Owncloud](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/owncloud) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:owncloud`` |
-| [PRoot](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/proot) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:proot`` |
-| [Paneldactyl](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/paneldactyl) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:paneldactyl`` |
-| [Stress](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/stress) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:stress`` |
-| [Handbrake](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/handbrake) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:handbrake`` |
-| [Youtube-DL](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/software/youtube_dl) | ✅ | ✅ | ``ghcr.io/ashu11-a/software:youtube_dl`` |
+| [Box64](https://github.com/veslydev/Ashu_Yolks/tree/main/Box64) | ❌ | ✅ | ``ghcr.io/veslydev/yolks:box64`` |
+| [Box86](https://github.com/veslydev/Ashu_Yolks/tree/main/Box86) | ❌ | ✅ | ``ghcr.io/veslydev/yolks:box86`` |
+| [Debian](https://github.com/veslydev/Ashu_Yolks/tree/main/Debian) | ✅ | ✅ | ``ghcr.io/veslydev/yolks:debian`` |
+| [Dotnet](https://github.com/veslydev/Ashu_Yolks/tree/main/Dotnet) | ✅ | ✅ | ``ghcr.io/veslydev/yolks:dotnet_6`` |
+| [Emby](https://github.com/veslydev/Ashu_Yolks/tree/main/software/emby) | ✅ | ✅ | ``ghcr.io/veslydev/software:emby`` |
+| [Jellyfin](https://github.com/veslydev/Ashu_Yolks/tree/main/software/jellyfin) | ✅ | ✅ | ``ghcr.io/veslydev/software:jellyfin`` |
+| [Nextcloud](https://github.com/veslydev/Ashu_Yolks/tree/main/software/nextcloud) | ✅ | ✅ | ``ghcr.io/veslydev/software:nextcloud`` |
+| [nodejs/19](https://github.com/veslydev/Ashu_Yolks/tree/main/nodejs/19) | ✅ | ✅ | ``ghcr.io/veslydev/yolks:nodejs_9`` |
+| [Owncloud](https://github.com/veslydev/Ashu_Yolks/tree/main/software/owncloud) | ✅ | ✅ | ``ghcr.io/veslydev/software:owncloud`` |
+| [PRoot](https://github.com/veslydev/Ashu_Yolks/tree/main/software/proot) | ✅ | ✅ | ``ghcr.io/veslydev/software:proot`` |
+| [Paneldactyl](https://github.com/veslydev/Ashu_Yolks/tree/main/software/paneldactyl) | ✅ | ✅ | ``ghcr.io/veslydev/software:paneldactyl`` |
+| [Stress](https://github.com/veslydev/Ashu_Yolks/tree/main/software/stress) | ✅ | ✅ | ``ghcr.io/veslydev/software:stress`` |
+| [Handbrake](https://github.com/veslydev/Ashu_Yolks/tree/main/software/handbrake) | ✅ | ✅ | ``ghcr.io/veslydev/software:handbrake`` |
+| [Youtube-DL](https://github.com/veslydev/Ashu_Yolks/tree/main/software/youtube_dl) | ✅ | ✅ | ``ghcr.io/veslydev/software:youtube_dl`` |
 
 
 ## 🎮 | Games
 | Game | AMD64 | ARM64 | Docker |
 |--|--|--|--|
-| [SA-MP](https://github.com/Ashu11-A/Ashu_Yolks/tree/main/Games/SA-MP) | ✅ | ✅ | AMD64: ``ghcr.io/ashu11-a/games:samp-amd64`` ARM64: ``ghcr.io/ashu11-a/games:samp-arm64`` |
+| [SA-MP](https://github.com/veslydev/Ashu_Yolks/tree/main/Games/SA-MP) | ✅ | ✅ | AMD64: ``ghcr.io/veslydev/games:samp-amd64`` ARM64: ``ghcr.io/veslydev/games:samp-arm64`` |
 
 
 ✅ • Funcionando.    
